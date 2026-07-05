@@ -1,0 +1,46 @@
+.animated-bg {
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  background: #050816;
+  overflow: hidden;
+}
+
+.gradient {
+  position: absolute;
+  width: 420px;
+  height: 420px;
+  border-radius: 50%;
+  filter: blur(120px);
+  opacity: 0.45;
+  animation: floatBg 12s ease-in-out infinite alternate;
+}
+
+.g1 {
+  background: #7c3aed;
+  top: 10%;
+  left: 5%;
+}
+
+.g2 {
+  background: #38bdf8;
+  right: 5%;
+  top: 30%;
+  animation-delay: 2s;
+}
+
+.g3 {
+  background: #f472b6;
+  left: 40%;
+  bottom: 5%;
+  animation-delay: 4s;
+}
+
+@keyframes floatBg {
+  from {
+    transform: translateY(0) scale(1);
+  }
+  to {
+    transform: translateY(-60px) scale(1.1);
+  }
+}

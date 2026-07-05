@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "name": "Python",
+    "category": "Programming",
+    "description": "Backend, Flask, AI/ML and automation.",
+    "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg",
+    "level": 90,
+    "featured": true
+  },
+  {
+    "id": 2,
+    "name": "Java",
+    "category": "Programming",
+    "description": "OOPs",
+    "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg",
+    "level": 85,
+    "featured": true
+  },
+  {
+    "id": 3,
+    "name": "JavaScript",
+    "category": "Frontend",
+    "description": "Frontend interactivity and dynamic web applications.",
+    "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg",
+    "level": 80,
+    "featured": true
+  },
+  {
+    "id": 4,
+    "name": "React",
+    "category": "Frontend",
+    "description": "Modern component-based frontend development.",
+    "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg",
+    "level": 65,
+    "featured": true
+  },
+  {
+  "id": 5,
+  "name": "Node.js",
+  "category": "Backend",
+  "description": "Built scalable backend applications and RESTful services using Node.js.",
+  "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg",
+  "level": 65,
+  "featured": true
+},
+{
+  "id": 6,
+  "name": "RESTful APIs",
+  "category": "Backend",
+  "description": "Designed and integrated RESTful APIs for efficient client-server communication.",
+  "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg",
+  "level": 50,
+  "featured": true
+},
+{
+  "id": 7,
+  "name": "MySQL",
+  "category": "Database",
+  "description": "Designed relational databases and optimized SQL queries for applications.",
+  "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg",
+  "level": 80,
+  "featured": true
+},
+{
+  "id": 8,
+  "name": "LangChain",
+  "category": "AI",
+  "description": "Developed LLM-powered workflows using LangChain for intelligent applications.",
+  "image": "https://placehold.co/600x400/111827/ffffff?text=LangChain",
+  "level": 70,
+  "featured": true
+},
+{
+  "id": 9,
+  "name": "RAG",
+  "category": "AI",
+  "description": "Built Retrieval-Augmented Generation pipelines with vector databases and LLMs.",
+  "image": "https://avatars.githubusercontent.com/u/114683605?s=200&v=4",
+  "level": 80,
+  "featured": true
+}
+]

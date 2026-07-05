@@ -1,0 +1,46 @@
+[
+    {
+        "id": 1,
+        "title": "Develop Generative AI Applications",
+        "issuedBy": "IBM Skills Network",
+        "issueDate": "2026-03-23",
+        "credentialId": "YQWW3PMOZ478",
+        "credentialLink": "https://www.coursera.org/account/accomplishments/verify/YQWW3PMOZ478",
+        "image": "/certificates/CERTIFICATE_LANDING_PAGEYQWW3PMOZ478.jpeg",
+        "description": "basics of  GenAI and the LangChain framework, focusing on how prompt engineering and in-context learning to enhance AI interactions ",
+        "featured": true
+    },
+    {
+        "id": 2,
+        "title": "Build RAG Applications",
+        "issuedBy": "IBM",
+        "issueDate": "2026-03-30",
+        "credentialId": "YC1MPQXLFC11",
+        "credentialLink": "https://www.coursera.org/account/accomplishments/verify/YC1MPQXLFC11",
+        "image": "/certificates/CERTIFICATE_LANDING_PAGEYC1MPQXLFC11.jpeg",
+        "description": "practical understanding of Retrieval-Augmented Generation (RAG)",
+        "featured": true
+    },
+    {
+        "id": 3,
+        "title": "Introduction to Software Engineering",
+        "issuedBy": "IBM",
+        "issueDate": "2026-06-16",
+        "credentialId": "2YEUL4BQ8MDL",
+        "credentialLink": "https://www.coursera.org/account/accomplishments/verify/2YEUL4BQ8MDL",
+        "image": "/certificates/CERTIFICATE_LANDING_PAGE2YEUL4BQ8MDL.jpeg",
+        "description": "principles of software engineering, the Software Development Life Cycle (SDLC), and software development tools, technologies, and stacks",
+        "featured": true
+    },
+    {
+        "id": 4,
+        "title": "Advanced Python",
+        "issuedBy": "Simplilearn",
+        "issueDate": "2026-02-07",
+        "credentialId": "",
+        "credentialLink": "https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiI0NzU4IiwiY2VydGlmaWNhdGVfdXJsIjoiaHR0cHM6XC9cL2NlcnRpZmljYXRlcy5zaW1wbGljZG4ubmV0XC9zaGFyZVwvOTgxNTQxOF8xMDEwNTY2NV8xNzcwNDY5MDgzMDM2LnBuZyIsInVzZXJuYW1lIjoibW9oYW1tZWQgYmlsYWwifQ%3D%3D&utm_source=shared-certificate&utm_medium=lms&utm_campaign=shared-certificate-promotion&referrer=https%3A%2F%2Flms.simplilearn.com%2Fcourses%2F7755%2FAdvanced%2520Python_%2Fcertificate%2Fdownload-skillup&%24web_only=true&_branch_match_id=1531692694484497711&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXL87MLcjJ1EssKNDLyczL1k%2FVd09PS0%2Fx9C31NkyyrytKTUstKsrMS49PKsovL04tsvUBqkpN8cwDAMvxbkhBAAAA",
+        "description": "numpy, pandas, matplotlib",
+        "image": "/certificates/9815418_10105665_1770469083036.png",
+        "featured": true
+    }
+]

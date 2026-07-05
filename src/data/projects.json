@@ -1,0 +1,49 @@
+[
+    {
+        "id": 1,
+        "title": "Prompt Injection Detection",
+        "category": "AI / ML",
+        "description": "AI safety layer that detects malicious prompts using DistilBERT, embeddings and Flask.",
+        "technologies": [
+            "Python",
+            "Flask",
+            "React",
+            "DistilBERT"
+        ],
+        "github": "#",
+        "demo": "#",
+        "image": "https://placehold.co/600x400/111827/ffffff?text=Prompt+Injection",
+        "year": 2026,
+        "featured": true
+    },
+    {
+        "id": 2,
+        "title": "Doctor Appointment Android App",
+        "category": "Android",
+        "description": "Android application for booking doctor appointments using Java, XML and Google APIs.",
+        "technologies": [
+            "Java",
+            "XML",
+            "Google API"
+        ],
+        "github": "#",
+        "demo": "#",
+        "image": "https://placehold.co/600x400/111827/ffffff?text=Doctor+App",
+        "year": 2025,
+        "featured": true
+    },
+    {
+        "id": 3,
+        "title": "Multi-Media summarization",
+        "category": "Nlp",
+        "description": "summarization for audio, video, youtube video, image, text",
+        "technologies": [
+            "python","flask","HTML/CSS"
+        ],
+        "github": "#",
+        "demo": "#",
+        "image": "https://placehold.co/600x400/111827/ffffff?text=Multi-Media+Summarization",
+        "year": 2025,
+        "featured": true
+    }
+]
