@@ -13,7 +13,10 @@ function Certifications() {
       <div className="cert-grid">
         {certifications.map((cert) => (
           <div className="cert-card" key={cert.id}>
-            <img src={cert.image} alt={cert.title} />
+            <img
+            src={`${import.meta.env.BASE_URL}${cert.image.replace(/^\//, "")}`}
+            alt={cert.title}
+            />
 
             <div className="cert-body">
               <h3>{cert.title}</h3>
