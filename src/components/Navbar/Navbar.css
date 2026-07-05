@@ -96,6 +96,7 @@ z-index:999;
 
   .nav-links.active {
     display: flex;
+    border-radius: 10ppx;
   }
 
   .nav-links a {
